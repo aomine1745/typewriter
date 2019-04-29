@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	background-color: #324761;
+	font-family: sans-serif;
+	color: #fff;
+}
+.title {
+	padding-bottom: 8px;
+}
+.type {
+	border: 3px solid #C65F15;
+	text-align: center;
+	padding: 30px;
+}
